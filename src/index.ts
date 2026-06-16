@@ -1,11 +1,13 @@
-function sum(a:number,b:number):number{
-    return a+b;
-}
+import "./01_data_types";
 
-console.log(sum(1,2));
+// function sum(a:number,b:number):number{
+//     return a+b;
+// }
 
-function greet(name:string):string{
-    return `Hello, ${name}!`;
-}
+// console.log(sum(1,2));
 
-console.log(greet("John"));
+// function greet(name:string):string{
+//     return `Hello, ${name}!`;
+// }
+
+// console.log(greet("John"));
