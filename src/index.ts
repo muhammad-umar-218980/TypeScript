@@ -1,5 +1,6 @@
 // import "./01_data_types";
-import "./02_type_inference"
+// import "./02_type_inference"
+import "./03_arrays"
 
 // function sum(a:number,b:number):number{
 //     return a+b;
