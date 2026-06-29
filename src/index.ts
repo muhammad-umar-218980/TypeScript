@@ -2,7 +2,8 @@
 // import "./02_type_inference"
 // import "./03_arrays"
 // import "./04_objects"
-import "./05_union_types"
+// import "./05_union_types"
+import "./06_type_aliases"
 
 // function sum(a:number,b:number):number{
 //     return a+b;
