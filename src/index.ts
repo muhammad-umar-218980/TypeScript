@@ -3,7 +3,8 @@
 // import "./03_arrays"
 // import "./04_objects"
 // import "./05_union_types"
-import "./06_type_aliases"
+// import "./06_type_aliases"
+import "./07_interfaces"
 
 // function sum(a:number,b:number):number{
 //     return a+b;
