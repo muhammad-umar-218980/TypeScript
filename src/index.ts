@@ -4,7 +4,8 @@
 // import "./04_objects"
 // import "./05_union_types"
 // import "./06_type_aliases"
-import "./07_interfaces"
+// import "./07_interfaces"
+import "./08_optional_properties"
 
 // function sum(a:number,b:number):number{
 //     return a+b;
